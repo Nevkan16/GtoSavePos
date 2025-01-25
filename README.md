@@ -1,1 +1,1 @@
-GUI applicatation for saving GTO win position
+GUI application for saving GTO win position
